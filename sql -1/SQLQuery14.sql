@@ -1,0 +1,1 @@
+Select enter_date from Works_on where project_no='p2' and Job is NULL;

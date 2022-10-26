@@ -1,0 +1,1 @@
+select emp_no from works_on  where Job='Clerk';

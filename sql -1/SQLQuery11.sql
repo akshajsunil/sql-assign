@@ -1,0 +1,1 @@
+Select emp_no from Works_on where project_no='p2' AND emp_no < 10000

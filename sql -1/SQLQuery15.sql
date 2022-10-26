@@ -1,0 +1,1 @@
+Select emp,emp_lna from Employee WHERE emp_fname LIKE '%tt%'

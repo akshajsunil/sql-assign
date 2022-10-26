@@ -1,0 +1,1 @@
+Select emp_no from Works_on where year( enter_date) != 1998

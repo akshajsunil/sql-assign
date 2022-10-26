@@ -1,0 +1,1 @@
+Select * from Employee WHERE emp_lna LIKE '_o%es' or emp_lna LIKE '_a%es'

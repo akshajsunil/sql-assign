@@ -1,0 +1,1 @@
+ALTER TABLE Orders ADD DEFAULT getdate() FOR Orderdate
