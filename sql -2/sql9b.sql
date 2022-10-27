@@ -1,0 +1,1 @@
+SELECT emp FROM Employee WHERE dept=(SELECT dept FROM Department WHERE Dept='Marketing');

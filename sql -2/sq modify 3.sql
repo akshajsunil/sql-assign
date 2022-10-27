@@ -1,0 +1,1 @@
+UPDATE Works_on SET Job='Clerk' WHERE project_no='p1' AND Job='Manager';

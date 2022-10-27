@@ -1,0 +1,1 @@
+SELECT A.emp FROM Employee A JOIN Employee B ON A.emp!=B.emp AND A.dept=B.dept;
